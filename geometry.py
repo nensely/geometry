@@ -12,12 +12,12 @@ def triangle_perimetr(a, b, c):
 
 # Вычисляет площядь квадрата
 # Пример вызова:
-# triangle_perimetr(10) = 100
+# square_perimetr(10) = 100
 def square_area(a):
 	return a * a
 
 # Вычисляет периметр квадрата
 # Пример вызова:
-# triangle_perimetr(10) = 40
+# square_perimetr(10) = 40
 def square_perimetr(a):
 	return a * 4
